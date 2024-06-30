@@ -2,7 +2,6 @@
  * Function to prompt user for student marks and output corresponding grade.
  */
 function studentGradeGenerator() {
-    // Prompt for user input
     let userInput = prompt("Enter student marks (0-100):");
     
     // Convert input to a number
