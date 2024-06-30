@@ -1,2 +1,3 @@
-# toy-problem-week1
-assignments on toy problem
+# TOY-PROBLEM-WEEK1-CHALLENGE
+
+Assignments on toy problem
